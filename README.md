@@ -53,11 +53,11 @@ and open the template in the editor.
         
             <div id="header"></div>
             <div id="nav">
-                <ul><li><a href="#">HOME</a></li>
-                    <li><a href="#">ABOUTUS</a></li>
-                    <li><a href="#">WHY SVVV</a></li>
-                    <li><a href="#">INSTITUTE</a></li>
-                    <li><a href="#">ADMINISTRATION</a></li>
+                <ul><li><a href="http://svvv.edu.in/">HOME</a></li>
+                    <li><a href="http://www.svvv.edu.in/about-us/about-university">ABOUTUS</a></li>
+                    <li><a href="http://www.svvv.edu.in/why-svvvv/life-at-svvvv">WHY SVVV</a></li>
+                    <li><a href="http://www.svvv.edu.in/academics/svits-abouts/about-svits">INSTITUTE</a></li>
+                    <li><a href="http://www.svvv.edu.in/about-us/administration/governing-body">ADMINISTRATION</a></li>
                 </ul>
             </div>
             
