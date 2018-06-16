@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>homepage</title>
         <style type="text/css">
         .container{background-color:blue;
         width:990px;
